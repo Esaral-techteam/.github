@@ -12,7 +12,7 @@
   <a href="https://github.com/Esaral-techteam">
     <img src="https://img.shields.io/badge/Team-Esaral%20Tech-blue?style=flat-square" alt="Team Badge" />
   </a>
-  <a href="https://github.com/Esaral-techteam/matchboxd">
+  <a href="https://matchboxd.live/">
     <img src="https://img.shields.io/badge/Project-Matchboxd-ffcc00?style=flat-square" alt="Project Badge" />
   </a>
   <a href="#">
